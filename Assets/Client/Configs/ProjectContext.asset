@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 939c33995cd7a5a4f9e28724d1f972d2, type: 3}
+  m_Name: ProjectContext
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 508303446165527263, guid: 4e0123ca25766a242b29ff166a35d683, type: 3}
+  playerSpeed: 10
+  smoothTime: 0.1
+  followOffset: {x: 0, y: 10.32, z: -10}
+  projectilePrefab: {fileID: 6405463217656633902, guid: d1e563781f2fd51418bb2e6daf1213f2, type: 3}
+  projectileRadius: 0
